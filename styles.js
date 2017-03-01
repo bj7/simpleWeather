@@ -24,6 +24,6 @@ export const styles = StyleSheet.create({
     },
     currentWeatherBannerTemperature: {
         textAlign: 'left',
-        fontSize: 90,
+        fontSize: 70,
     }
 });
